@@ -1,0 +1,2 @@
+This is a new first lineThis is more text being appended to test.txt
+And another line here.

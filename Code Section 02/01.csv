@@ -1,0 +1,699 @@
+Sector,Sec No.,Class,Class No.
+Equipments,1,Air Conditions,101
+Equipments,1,Air Heaters,102
+Equipments,1,Air Cooler,103
+Equipments,1,Exhaust Fans,104
+Equipments,1,Air Filters,105
+Equipments,1,Electric Fans,106
+Equipments,1,Kettles,107
+Equipments,1,Electric Grills,108
+Equipments,1,Stoves,109
+Equipments,1,Ovens,110
+Equipments,1,Microwaves and Toasters,111
+Equipments,1,Yogurt Maker,112
+Equipments,1,Cappuccino and Coffee Makers,113
+Equipments,1,Electric Fryers,114
+Equipments,1,Blenders,115
+Equipments,1,Other Kitchen Machines,116
+Equipments,1,Refrigerators,117
+Equipments,1,Water Refrigerator,118
+Equipments,1,Water Dispensers,119
+Equipments,1,Deep Freezers,120
+Equipments,1,Ice Makers,121
+Equipments,1,Electric Water Heater,122
+Equipments,1,Gas Water Heater,123
+Equipments,1,Solar Heater,124
+Equipments,1,Dish Washers,125
+Equipments,1,Normal Washing Machines,126
+Equipments,1,Automatic Washing Machines,127
+Equipments,1,Clothes Dryer,128
+Equipments,1,Hands Dryer,129
+Equipments,1,Electric Irons,130
+Equipments,1,Vacuum Cleaners,131
+Equipments,1,Electric Insect Killer,132
+Equipments,1,Electric Air Freshener,133
+Equipments,1,Babyliss,134
+Equipments,1,Electric Hair Dryers and Styler`s,135
+Equipments,1,Electric Hair Removers,136
+Equipments,1,Hair Cutting and Shavers,137
+Equipments,1,Electric Tooth Brush,138
+Equipments,1,Optical Machines,139
+Equipments,1,Disposable Batteries,140
+Equipments,1,Rechargeable Batteries,141
+Equipments,1,Batteries Chargers,142
+Equipments,1,Rechargeable Lantern,143
+Equipments,1,"Elevators, Ladders and Escalators",144
+Equipments,1,Cables and Wires,145
+Equipments,1,Waste Disposer,146
+Equipments,1,Electric Generators and Power Supplies,147
+Equipments,1,Water Motors and Pumps,148
+Equipments,1,Air Compressors and Blowers,149
+Equipments,1,Welding Machines,150
+Equipments,1,Wood and Steel Sawing Machines,151
+Equipments,1,Weapons and Ammunitions,152
+Equipments,1,Other Manufacturing Machines,153
+Equipments,1,Sewing Machines and Supplies,154
+Equipments,1,Farming and Irrigation Equipments,155
+Equipments,1,Exercises and Sports Equipment,156
+Equipments,1,Boats Engines,157
+Equipments,1,Televisions,158
+Equipments,1,Home Theater System,159
+Equipments,1,Sound Speakers and Subwoofers,160
+Equipments,1,Microphones and Megaphones,161
+Equipments,1,Radio and Cassettes,162
+Equipments,1,Portable CD player,163
+Equipments,1,Hi -Fi Systems,164
+Equipments,1,DVD Player,165
+Equipments,1,Video Cassettes,166
+Equipments,1,Music Player,167
+Equipments,1,Musical Instruments,168
+Equipments,1,I Pod,169
+Equipments,1,Photography Camera,170
+Equipments,1,Video Camera,171
+Equipments,1,Digital Camera,172
+Equipments,1,"Camera Accessories, Films and Tapes",173
+Equipments,1,Play Station,174
+Equipments,1,Typewriters,175
+Equipments,1,Photocopier,176
+Equipments,1,Cash Registers,177
+Equipments,1,Calculators,178
+Equipments,1,Electronic Translators,179
+Equipments,1,Combined Equipments,198
+Equipments,1,Other Equipments,199
+Technology Appliances,2,Computer Parts and Accessories,201
+Technology Appliances,2,Laptops,202
+Technology Appliances,2,Special Functions Computers,203
+Technology Appliances,2,Printers and Printers Ink,204
+Technology Appliances,2,Scanners,205
+Technology Appliances,2,Screens and Monitors,206
+Technology Appliances,2,Projectors and Data Show,207
+Technology Appliances,2,Data Traveler,208
+Technology Appliances,2,Memory Cards,209
+Technology Appliances,2,Satellite Receivers,210
+Technology Appliances,2,"Fax, Telex and Facsimile",211
+Technology Appliances,2,Telephones and Telephone Systems,212
+Technology Appliances,2,Intercom,213
+Technology Appliances,2,Telephone Lines Cards,214
+Technology Appliances,2,Cabinet Cards,215
+Technology Appliances,2,Mobile Phones,216
+Technology Appliances,2,Mobile Phones Accessories,217
+Technology Appliances,2,Combined Communication Appliances,298
+Technology Appliances,2,Other Communication Appliances,299
+Vehicles,3,Cars,301
+Vehicles,3,Four Wheel Drive,302
+Vehicles,3,Pick Up,303
+Vehicles,3,Heavy Pick Up and Trucks,304
+Vehicles,3,Mini and Microbuses,305
+Vehicles,3,Buses,306
+Vehicles,3,Special Needs Vehicles,307
+Vehicles,3,Services Cars,308
+Vehicles,3,Industrial and Constructions Vehicles,309
+Vehicles,3,Farming Vehicles,310
+Vehicles,3,Motorcycles,311
+Vehicles,3,Bicycles,312
+Vehicles,3,Ships and Boats,313
+Vehicles,3,Aircrafts,314
+Vehicles,3,Combined Vehicles,398
+Vehicles,3,Other Vehicles,399
+Vehicles Accessories,4,Car Batteries,401
+Vehicles Accessories,4,Car Paints and Cleaners,402
+Vehicles Accessories,4,Cars Air Conditions,403
+Vehicles Accessories,4,Tires,404
+Vehicles Accessories,4,Car Oils,405
+Vehicles Accessories,4,Spark Plugs,406
+Vehicles Accessories,4,Cars Fire Extinguisher,407
+Vehicles Accessories,4,Security Alarm System,408
+Vehicles Accessories,4,Cars Cassette and Sound Systems,409
+Vehicles Accessories,4,Cars Speakers,410
+Vehicles Accessories,4,Motorcycles Accessories,411
+Vehicles Accessories,4,Bicycles Accessories,412
+Vehicles Accessories,4,Combined Cars Accessories,498
+Vehicles Accessories,4,Other Cars Accessories,499
+Medicines and Medical Tools,5,Headache Reliever,501
+Medicines and Medical Tools,5,Pain Reliever,502
+Medicines and Medical Tools,5,Antibiotic,503
+Medicines and Medical Tools,5,Cold Medicines,504
+Medicines and Medical Tools,5,Cough Medicines,505
+Medicines and Medical Tools,5,Sore Throat,506
+Medicines and Medical Tools,5,Digestive Medicines,507
+Medicines and Medical Tools,5,Acidity Removers,508
+Medicines and Medical Tools,5,Vitamins,509
+Medicines and Medical Tools,5,Skin Medicines,510
+Medicines and Medical Tools,5,Eye Drops,511
+Medicines and Medical Tools,5,Nose Drops,512
+Medicines and Medical Tools,5,Losing Weight Medicines,513
+Medicines and Medical Tools,5,Gaining Weight Medicines,514
+Medicines and Medical Tools,5,Body Building Medicines,515
+Medicines and Medical Tools,5,Marriage Aid Medicines,516
+Medicines and Medical Tools,5,Contraceptive Medicines,517
+Medicines and Medical Tools,5,Marriage Tools,518
+Medicines and Medical Tools,5,Contraceptive Tools,519
+Medicines and Medical Tools,5,Vet Remedies,520
+Medicines and Medical Tools,5,Fertilizers,521
+Medicines and Medical Tools,5,Insects Killing Medicines,522
+Medicines and Medical Tools,5,Lenses Solutions,523
+Medicines and Medical Tools,5,Band Aids,524
+Medicines and Medical Tools,5,Medical Foot Products,525
+Medicines and Medical Tools,5,Medical Wrists,526
+Medicines and Medical Tools,5,Medical Necks,527
+Medicines and Medical Tools,5,Medical Belts,528
+Medicines and Medical Tools,5,Medical Hearing Aids,529
+Medicines and Medical Tools,5,Medical Pressure Measurements,530
+Medicines and Medical Tools,5,Medical Diabetes Measurements,531
+Medicines and Medical Tools,5,Other Medical Equipments,532
+Medicines and Medical Tools,5,Combined Medicines and Medical Tools,598
+Medicines and Medical Tools,5,Other Medicines and Medical Tools,599
+Medical Services,6,Women and Birth Hospitals,601
+Medical Services,6,Children Hospitals,602
+Medical Services,6,Eyes Hospitals,603
+Medical Services,6,Mental and Psycho Hospitals,604
+Medical Services,6,Beauty Hospitals,605
+Medical Services,6,Other Hospitals,606
+Medical Services,6,Clinics,607
+Medical Services,6,Physiotherapy Centers,608
+Medical Services,6,Medical Laboratories,609
+Medical Services,6,Medical Scanning Centers,610
+Medical Services,6,Pharmacies,611
+Medical Services,6,Medicine Companies,612
+Medical Services,6,Vet Hospitals,613
+Medical Services,6,Combined Medical Services,698
+Medical Services,6,Other Medical Services,699
+Cosmetics and Hair Care,7,Anti Age Products,701
+Cosmetics and Hair Care,7,Anti Cellulite Products,702
+Cosmetics and Hair Care,7,Makeup Removers,703
+Cosmetics and Hair Care,7,Makeup Remover Wipes,704
+Cosmetics and Hair Care,7,Facial Cream,706
+Cosmetics and Hair Care,7,Facial Masks,707
+Cosmetics and Hair Care,7,Sun Screen Products,708
+Cosmetics and Hair Care,7,Skin Care Cosmetics and Creams,709
+Cosmetics and Hair Care,7,Body Vaseline,710
+Cosmetics and Hair Care,7,Facial Makeup Products,711
+Cosmetics and Hair Care,7,Nails Care Makeup and Products,712
+Cosmetics and Hair Care,7,Eyes Makeup and Products,713
+Cosmetics and Hair Care,7,Lips Makeup and Products,714
+Cosmetics and Hair Care,7,Male Perfumes,716
+Cosmetics and Hair Care,7,Female Perfumes,717
+Cosmetics and Hair Care,7,Other Perfumes,718
+Cosmetics and Hair Care,7,Hair Conditioners,719
+Cosmetics and Hair Care,7,Hair Dyes,720
+Cosmetics and Hair Care,7,Hair Henna,721
+Cosmetics and Hair Care,7,Hair Tonics,722
+Cosmetics and Hair Care,7,Hair Spray,723
+Cosmetics and Hair Care,7,Hair Serum,724
+Cosmetics and Hair Care,7,Hair Dressing Creams,725
+Cosmetics and Hair Care,7,Conditioning Cream,726
+Cosmetics and Hair Care,7,Hair Vaseline,727
+Cosmetics and Hair Care,7,Hair Styling Products and Gel,728
+Cosmetics and Hair Care,7,Gel Cream,729
+Cosmetics and Hair Care,7,Hair Repair Products,730
+Cosmetics and Hair Care,7,Hair Growth Products,731
+Cosmetics and Hair Care,7,Body Lotion,732
+Cosmetics and Hair Care,7,Whitening Cream,733
+Cosmetics and Hair Care,7,Combined Cosmetics and Hair Care Products,798
+Cosmetics and Hair Care,7,Other Cosmetics and Hair Care Products,799
+Toiletries and Hygiene,8,Infant Diapers,801
+Toiletries and Hygiene,8,Infant Gel and Oils,802
+Toiletries and Hygiene,8,Infant Creams and Lotions,803
+Toiletries and Hygiene,8,Infant Wipes,804
+Toiletries and Hygiene,8,Infant Shampoo,805
+Toiletries and Hygiene,8,Adult Shampoo,806
+Toiletries and Hygiene,8,Anti Dandruff Shampoo,807
+Toiletries and Hygiene,8,Dyed Hair Shampoo,808
+Toiletries and Hygiene,8,Damaged Hair Shampoo,809
+Toiletries and Hygiene,8,Anti Hair Loss Shampoo,810
+Toiletries and Hygiene,8,Shower Gels,811
+Toiletries and Hygiene,8,Tooth Paste,812
+Toiletries and Hygiene,8,Tooth Whitener,813
+Toiletries and Hygiene,8,Mouth Wash,814
+Toiletries and Hygiene,8,Face Wash,815
+Toiletries and Hygiene,8,Shaving Creams,816
+Toiletries and Hygiene,8,Shaving Foams,817
+Toiletries and Hygiene,8,Shaving Lotions,818
+Toiletries and Hygiene,8,Shaving Gel,819
+Toiletries and Hygiene,8,Soap Bars,820
+Toiletries and Hygiene,8,Anti Bacterial Soap Bars,821
+Toiletries and Hygiene,8,Liquid Soap,822
+Toiletries and Hygiene,8,Anti Bacterial Liquid Soap,823
+Toiletries and Hygiene,8,Cream Deodorants,824
+Toiletries and Hygiene,8,Spray Deodorants,825
+Toiletries and Hygiene,8,Roll Deodorants,826
+Toiletries and Hygiene,8,Stick Deodorants,827
+Toiletries and Hygiene,8,Cream Female Depilatories,828
+Toiletries and Hygiene,8,Wax Female Depilatories,829
+Toiletries and Hygiene,8,Feminine Hygiene Products,830
+Toiletries and Hygiene,8,Feet Care Products,831
+Toiletries and Hygiene,8,Hand Cleaning Products,832
+Toiletries and Hygiene,8,Paper Tissues,833
+Toiletries and Hygiene,8,Anti Bacterial Wipes,834
+Toiletries and Hygiene,8,Anti Bacterial Products,835
+Toiletries and Hygiene,8,Combined Hygiene Products,898
+Toiletries and Hygiene,8,Other Hygiene Products,899
+Detergents and Cleaners,9,Normal Laundry Detergents,901
+Detergents and Cleaners,9,White Clothes Automatic Laundry Detergents,902
+Detergents and Cleaners,9,Color Clothes Automatic Laundry Detergents,903
+Detergents and Cleaners,9,Gel White Laundry Detergents,904
+Detergents and Cleaners,9,Gel Color Laundry Detergents,905
+Detergents and Cleaners,9,Liquid Dishwashing Detergents,906
+Detergents and Cleaners,9,Powder Dishwashing Detergents,907
+Detergents and Cleaners,9,Liquid Dishwasher Detergents,908
+Detergents and Cleaners,9,Powder Dishwasher Detergents,909
+Detergents and Cleaners,9,Dishwashing Salt ,910
+Detergents and Cleaners,9,Dishwashing Rinse Aid,911
+Detergents and Cleaners,9,Fabric Softeners,912
+Detergents and Cleaners,9,Bleach Products,913
+Detergents and Cleaners,9,Stain Removers,914
+Detergents and Cleaners,9,Toilet and Bowl Cleaners,915
+Detergents and Cleaners,9,Floor Detergents,916
+Detergents and Cleaners,9,Glass and Window Cleaners,917
+Detergents and Cleaners,9,Furniture Cleaners,918
+Detergents and Cleaners,9,Carpets Cleaners,919
+Detergents and Cleaners,9,Metal Polishers,920
+Detergents and Cleaners,9,Multipurpose Detergents,921
+Detergents and Cleaners,9,Cleaning Wipes,922
+Detergents and Cleaners,9,Color and White Laundry Detergents,923
+Detergents and Cleaners,9,Combined Detergents,998
+Detergents and Cleaners,9,Other Detergents,999
+Foods,10,Normal Macaroni,1001
+Foods,10,Macaroni With Additives,1002
+Foods,10,Rice,1003
+Foods,10,Basmati Rice,1004
+Foods,10,Corn,1005
+Foods,10,Canned Bean,1006
+Foods,10,Other Grains,1007
+Foods,10,Shaeria,1008
+Foods,10,Noodle,1009
+Foods,10,Flour,1010
+Foods,10,Salt,1011
+Foods,10,Sugar,1012
+Foods,10,Diet Sugar,1013
+Foods,10,Jams,1014
+Foods,10,Honey,1015
+Foods,10,Halawa,1016
+Foods,10,Tahina,1017
+Foods,10,Cooking Chocolate,1018
+Foods,10,Breakfast Cereal,1019
+Foods,10,Canned Food,1020
+Foods,10,Fresh Fruits and Vegetables,1021
+Foods,10,Frozen or Canned Fruits and Vegetables,1022
+Foods,10,Pickles,1023
+Foods,10,Mushroom,1024
+Foods,10,Jelly,1025
+Foods,10,Custard Powder,1026
+Foods,10,Dry Sweets,1027
+Foods,10,Cake Mix,1028
+Foods,10,Sweet Filling ,1029
+Foods,10,Bread,1030
+Foods,10,Pies and Pizza,1031
+Foods,10,Potatoes,1032
+Foods,10,Sunflower Oil,1033
+Foods,10,Corn Oil,1034
+Foods,10,Olive Oil,1035
+Foods,10,Other Oil,1036
+Foods,10,Ghee,1037
+Foods,10,Butter,1038
+Foods,10,Vinegar,1039
+Foods,10,Soup,1040
+Foods,10,Cooking Aid Cubes,1041
+Foods,10,Bechamel Mix,1042
+Foods,10,Mayonnaise,1043
+Foods,10,Ketchup,1044
+Foods,10,Sauce,1045
+Foods,10,Mustard,1046
+Foods,10,Tomato Sauce,1047
+Foods,10,Cooking Aids,1048
+Foods,10,Bread Crumbs,1049
+Foods,10,Coating Mix,1050
+Foods,10,Infant Foods,1051
+Foods,10,Pet Foods,1052
+Foods,10,Birds Foods,1053
+Foods,10,Seasonings,1054
+Foods,10,Combined Foods,1098
+Foods,10,Other Foods,1099
+Proteins Products,11,Canned Tuna,1101
+Proteins Products,11,Canned Fish,1102
+Proteins Products,11,Fish Fingers,1103
+Proteins Products,11,Caviar,1104
+Proteins Products,11,Other Fish,1105
+Proteins Products,11,Other Seas Foods,1106
+Proteins Products,11,Chickens,1107
+Proteins Products,11,Chicken Parts,1108
+Proteins Products,11,Chicken Luncheon,1109
+Proteins Products,11,Chicken Products,1110
+Proteins Products,11,Eggs,1111
+Proteins Products,11,Frozen and Cold Meat,1112
+Proteins Products,11,Meat Burger,1113
+Proteins Products,11,Meat Luncheon,1114
+Proteins Products,11,Other Meat Products,1115
+Proteins Products,11,Combined Protein Products,1198
+Proteins Products,11,Other Protein Products,1199
+Snacks,12,Packets Potato Chips,1201
+Snacks,12,Canned Potato Chips,1202
+Snacks,12,Snacks,1203
+Snacks,12,Popcorn,1204
+Snacks,12,Nuts,1205
+Snacks,12,Spread Chocolate,1206
+Snacks,12,Milk Chocolate,1207
+Snacks,12,Nuts Chocolate,1208
+Snacks,12,Filling and Flavoured Chocolate,1209
+Snacks,12,Milk White Chocolate,1210
+Snacks,12,Nuts White Chocolate,1211
+Snacks,12,Filling and Flavoured White Chocolate,1212
+Snacks,12,Gums,1213
+Snacks,12,Function Gum,1214
+Snacks,12,Sweets and Candies,1215
+Snacks,12,Biscuits,1216
+Snacks,12,Biscuits with Fillings,1217
+Snacks,12,Dates,1218
+Snacks,12,Cereal Bars,1219
+Snacks,12,Bakery Snacks,1220
+Snacks,12,Cakes Snacks,1221
+Snacks,12,Combined Snacks,1298
+Snacks,12,Other Snacks,1299
+Dairy Products,13,Powdered Milk,1301
+Dairy Products,13,Bottled and Canned Milk,1302
+Dairy Products,13,Condensed Milk,1303
+Dairy Products,13,Flavoured Milk,1304
+Dairy Products,13,Rayeb and Digestive Milk,1305
+Dairy Products,13,Flavoured Rayeb,1306
+Dairy Products,13,Organic Milk,1307
+Dairy Products,13,Soya Milk,1308
+Dairy Products,13,Flavoured Soya Milk,1309
+Dairy Products,13,Labnah,1310
+Dairy Products,13,Cream,1311
+Dairy Products,13,Flavoured Cream,1312
+Dairy Products,13,Normal Yoghurt,1313
+Dairy Products,13,Flavoured Yoghurt,1314
+Dairy Products,13,Diet Yoghurt,1315
+Dairy Products,13,Infant Milk,1316
+Dairy Products,13,Coffee and Tea Creamer,1317
+Dairy Products,13,Creme Caramel,1318
+Dairy Products,13,Cooking Cream,1319
+Dairy Products,13,Whipping Cream,1320
+Dairy Products,13,Sour Cream,1321
+Dairy Products,13,Ice Cream,1322
+Dairy Products,13,Ice Cream Powder,1323
+Dairy Products,13,Pudding,1324
+Dairy Products,13,Portion Cheese,1325
+Dairy Products,13,Flavoured Portion Cheese,1326
+Dairy Products,13,Feta Cheese,1327
+Dairy Products,13,Flavoured Feta Cheese,1328
+Dairy Products,13,Bramili Cheese,1329
+Dairy Products,13,Cheddar Cheese,1330
+Dairy Products,13,Yellow Cheese,1331
+Dairy Products,13,Low Salt Cheese,1332
+Dairy Products,13,Istambolli Cheese,1333
+Dairy Products,13,Qarish Cheese,1334
+Dairy Products,13,Mozzarella Cheese,1335
+Dairy Products,13,Double Cream Cheese,1336
+Dairy Products,13,Cooked Cheese,1337
+Dairy Products,13,Other Cheese,1338
+Dairy Products,13,Combined Dairy Products,1398
+Dairy Products,13,Other Dairy Products,1399
+Drinks,14,Carbonated Drinks,1401
+Drinks,14,Diet Carbonated Drinks,1402
+Drinks,14,Energy Drinks,1403
+Drinks,14,Mineral Water,1404
+Drinks,14,Sparkle Water,1405
+Drinks,14,Flavoured Water,1406
+Drinks,14,Bottled Juice,1407
+Drinks,14,Cans or Bricks Juice,1408
+Drinks,14,Powdered Fruit Juice,1409
+Drinks,14,Condensed Juice,1410
+Drinks,14,Dietary Juice,1411
+Drinks,14,Tea,1412
+Drinks,14,Flavoured Tea,1413
+Drinks,14,Green Tea,1414
+Drinks,14,Flavoured Green Tea,1415
+Drinks,14,Ice Tea,1416
+Drinks,14,Coffee,1417
+Drinks,14,Nescafe,1418
+Drinks,14,Cappuccino,1419
+Drinks,14,Chocolate Drinks,1420
+Drinks,14,Cocoa Drinks,1421
+Drinks,14,Herbal Drinks,1422
+Drinks,14,Powder Hot Drinks,1423
+Drinks,14,Nonalcoholic Beers and Malt,1424
+Drinks,14,Alcoholic Beers and Wines,1425
+Drinks,14,Combined Drinks,1498
+Drinks,14,Other Drinks,1499
+Tobacco,15,Cigarettes,1501
+Tobacco,15,Flavoured Cigarettes,1502
+Tobacco,15,Cigars,1503
+Tobacco,15,Flavoured Cigars,1504
+Tobacco,15,Pipes,1505
+Tobacco,15,Measel,1506
+Tobacco,15,Combined Tobacco,1598
+Tobacco,15,Other Tobacco,1599
+Building Materials,16,Cement and Bonding Materials,1601
+Building Materials,16,Building Steel,1602
+Building Materials,16,Other Metal Products,1603
+Building Materials,16,Paints,1604
+Building Materials,16,Coats and Insulations,1605
+Building Materials,16,"Chemicals, Rubber and Plastics",1606
+Building Materials,16,Wallpapers,1607
+Building Materials,16,Wood and Wood Works,1608
+Building Materials,16,Prefabricated Homes and Walls,1609
+Building Materials,16,Portable Houses,1610
+Building Materials,16,Ceramics and Porcelain,1611
+Building Materials,16,Tiles and Floors,1612
+Building Materials,16,Bathrooms Accessories,1613
+Building Materials,16,Pipes and Plumber,1614
+Building Materials,16,Glasses,1615
+Building Materials,16,Swimming Pools,1616
+Building Materials,16,Locks and keys,1617
+Building Materials,16,Combined Building Materials,1698
+Building Materials,16,Other Building Materials,1699
+Household Supplies,17,Clocks,1701
+Household Supplies,17,Lambs,1702
+Household Supplies,17,Najaf,1703
+Household Supplies,17,Crystal,1704
+Household Supplies,17,Abajoura,1705
+Household Supplies,17,Pots,1706
+Household Supplies,17,Pressure Pots,1707
+Household Supplies,17,Stream Cooker,1708
+Household Supplies,17,Rice Cooker,1709
+Household Supplies,17,Pyrex,1710
+Household Supplies,17,Pans,1711
+Household Supplies,17,Dinning Ware,1712
+Household Supplies,17,Plats,1713
+Household Supplies,17,Cups,1714
+Household Supplies,17,Aluminum Foil,1715
+Household Supplies,17,Doors and Windows,1716
+Household Supplies,17,Sun Covers,1717
+Household Supplies,17,"Mattress , Beddings and Linens",1718
+Household Supplies,17,Curtains,1719
+Household Supplies,17,Blankets,1720
+Household Supplies,17,Quilts,1721
+Household Supplies,17,Towels,1722
+Household Supplies,17,Tables and Chairs,1723
+Household Supplies,17,Water Filters,1724
+Household Supplies,17,Water Tanks,1725
+Household Supplies,17,Aerosol Air freshener,1726
+Household Supplies,17,Other Air Freshener,1727
+Household Supplies,17,Spray Insect Killer,1728
+Household Supplies,17,Other Insect Killer,1729
+Household Supplies,17,Garbage Bags,1730
+Household Supplies,17,Sponge Cloth,1731
+Household Supplies,17,Plastic Cleaning Supplies,1732
+Household Supplies,17,Fire Extinguisher and Protection Stuff,1733
+Household Supplies,17,Combined Household Supplies,1798
+Household Supplies,17,Other Household Supplies,1799
+Personal Accessories,18,Hand Bags,1801
+Personal Accessories,18,Bags and Wallets,1802
+Personal Accessories,18,Watches,1803
+Personal Accessories,18,Cigarettes Lighters,1804
+Personal Accessories,18,Clothes,1805
+Personal Accessories,18,Underwear,1806
+Personal Accessories,18,Shoes,1807
+Personal Accessories,18,Shoes Care Products,1808
+Personal Accessories,18,Reading Glasses and Frames,1809
+Personal Accessories,18,Sunglasses,1810
+Personal Accessories,18,Jewelry,1811
+Personal Accessories,18,Compasses,1812
+Personal Accessories,18,Pens and Pencils,1813
+Personal Accessories,18,"Dolls, Toys and Games",1814
+Personal Accessories,18,Shaving Tools,1815
+Personal Accessories,18,Shaving Razors,1816
+Personal Accessories,18,Shaving Brushes,1817
+Personal Accessories,18,Tooth Brush,1818
+Personal Accessories,18,Ink,1819
+Personal Accessories,18,Paper,1820
+Personal Accessories,18,Notebooks,1821
+Personal Accessories,18,Fishing Supplies,1822
+Personal Accessories,18,Diving and Skiing Supplies,1823
+Personal Accessories,18,Combined Personal Accessories,1898
+Personal Accessories,18,Other Personal Accessories,1899
+Entertainment Places,19,Hotels,1901
+Entertainment Places,19,Resorts,1902
+Entertainment Places,19,Restaurants and Fast Foods Restaurants,1903
+Entertainment Places,19,Floating Restaurant,1904
+Entertainment Places,19,Coffee Shops,1905
+Entertainment Places,19,Juice Shops,1906
+Entertainment Places,19,Night Clubs,1907
+Entertainment Places,19,Amusement Parks,1908
+Entertainment Places,19,Sports Clubs,1909
+Entertainment Places,19,Circus,1910
+Entertainment Places,19,Combined Entertainment Places,1998
+Entertainment Places,19,Other Entertainment Places,1999
+Services,20,Coiffure and Beauty Saloons,2001
+Services,20,Body Care Centers,2002
+Services,20,"Fitness , Gym and Body Building Centers",2003
+Services,20,Engineering and Architecture,2004
+Services,20,Constructions,2005
+Services,20,Decorations,2006
+Services,20,Baby Care and Kindergartens,2007
+Services,20,Schools,2008
+Services,20,Universities and Institutes,2009
+Services,20,Scholarships,2010
+Services,20,"Training, Courses and Learning Centers ",2011
+Services,20,Learning Disks,2012
+Services,20,Nursing home,2013
+Services,20,Blind Home,2014
+Services,20,Disabled Rehabilitation Centers,2015
+Services,20,Car Care and Maintenance,2016
+Services,20,Car Driving Learning,2017
+Services,20,Car Renting and Replacement,2018
+Services,20,Taxis,2019
+Services,20,Laundry and Carpets Cleaning,2020
+Services,20,Renting Clothes,2021
+Services,20,Equipment Maintenance,2022
+Services,20,Computer Maintenance,2023
+Services,20,Mobile Repair and Maintenance,2024
+Services,20,Dial Up Internet Providers,2025
+Services,20,DSL Internet Providers,2026
+Services,20,"IT , Programming and Network Services",2027
+Services,20,Computer Software,2028
+Services,20,Games Software,2029
+Services,20,Printing Services,2030
+Services,20,Photographing,2031
+Services,20,Traveling and Tourism Services,2032
+Services,20,Land Transportation,2033
+Services,20,Marine Transportation,2034
+Services,20,Air Transportation,2035
+Services,20,"Cargo , Shipping and Courier Services",2036
+Services,20,Mail Service,2037
+Services,20,"Petroleum , Gas and Wind  Companies",2038
+Services,20,Security and Guarding Services,2039
+Services,20,Custodian Services,2040
+Services,20,Job and Recruitment Companies,2041
+Services,20,Translation,2042
+Services,20,Auditing and Accounting,2043
+Services,20,Lawyers,2044
+Services,20,Advertising,2045
+Services,20,Importing and Exporting Services,2046
+Services,20,Immigrations and Study Abroad,2047
+Services,20,Renting Halls,2048
+Services,20,Real Estate Renting Services,2049
+Services,20,Exhibitions Services,2050
+Services,20,Telephone Lines Network,2051
+Services,20,Mobile Telephone Network,2052
+Services,20,Mobiles IVR,2053
+Services,20,Competitions IVR,2054
+Services,20,Services IVR,2055
+Services,20,Real Estate and Property Developer,2056
+Services,20,Mobile Internet Service,2057
+Services,20,Mobile Other Services,2058
+Services,20,Factories,2059
+Services,20,Combined Services,2098
+Services,20,Other Services,2099
+Financial Services,21,Auto Loans,2101
+Financial Services,21,Property loans,2102
+Financial Services,21,Other Loans,2103
+Financial Services,21,Banks ATM Cards,2104
+Financial Services,21,Visa and Credit Cards,2105
+Financial Services,21,Internet Shopping Cards,2106
+Financial Services,21,Banks,2107
+Financial Services,21,Financial Brokerage and Services,2108
+Financial Services,21,Investment Services,2109
+Financial Services,21,Money Transfer,2110
+Financial Services,21,Money Exchange,2111
+Financial Services,21,Financial Statements,2112
+Financial Services,21,Life Insurance,2113
+Financial Services,21,Medical Insurance,2114
+Financial Services,21,Cars Insurance,2115
+Financial Services,21,Property Insurance,2116
+Financial Services,21,Other Insurance,2117
+Financial Services,21,Combined Financial Services,2198
+Financial Services,21,Other Financial Services,2199
+Events,22,Festivals and Conferences,2201
+Events,22,Exhibitions,2202
+Events,22,Musical and Singing Concerts,2203
+Events,22,Art Shows,2204
+Events,22,Albums Cassettes and CDs,2205
+Events,22,Theaters,2206
+Events,22,Cinema House,2207
+Events,22,Cinema Movies Ads,2208
+Events,22,Movies Tapes and DVDs,2209
+Events,22,Channel Promotions,2210
+Events,22,Radio Stations,2211
+Events,22,TV Program Announcements,2212
+Events,22,Books Ads,2213
+Events,22,Newspaper and Magazines Ads,2214
+Events,22,Websites,2215
+Events,22,Sports Events,2216
+Events,22,Combined Events Ads,2298
+Events,22,Other Events Ads,2299
+Stores,23,Super Markets,2301
+Stores,23,Shopping Malls,2302
+Stores,23,Department Stores,2303
+Stores,23,"Fishes , Poultry and Butchery Stores",2304
+Stores,23,Chocolate Stores,2305
+Stores,23,"Confectionery, Pastry and Bakery Stores",2306
+Stores,23,Herbs Stores,2307
+Stores,23,Cosmetics and Toiletries Shops,2308
+Stores,23,Perfumes,2309
+Stores,23,Watches and Clocks,2310
+Stores,23,Electric Equipment,2311
+Stores,23,Electronics Accessories,2312
+Stores,23,Computer Supplier,2313
+Stores,23,Mobile Phone Shops,2314
+Stores,23,Toys Stores,2315
+Stores,23,Musical Instruments Store,2316
+Stores,23,Car Dealers,2317
+Stores,23,Motorcycles Dealers,2318
+Stores,23,Auto Parts Stores,2319
+Stores,23,General Clothes Shops,2320
+Stores,23,Under wearing Stores,2321
+Stores,23,Apparel and Footwear,2322
+Stores,23,"Textile, Fabrics and Decorations Shops",2323
+Stores,23,Carpet Stores,2324
+Stores,23,Building Materials and Ceramics,2325
+Stores,23,Bazaar,2326
+Stores,23,Doors and Windows,2327
+Stores,23,Sun Covers,2328
+Stores,23,Furniture Stores,2329
+Stores,23,Kitchen Stores,2330
+Stores,23,Bedroom and Mattress Stores,2331
+Stores,23,Office Equipment,2332
+Stores,23,Stationeries,2333
+Stores,23,Bookshops,2334
+Stores,23,Jewelry Shops,2335
+Stores,23,Glasses and Eyes Wear Shops,2336
+Stores,23,Sports  Stores,2337
+Stores,23,Farming and Agricultural Stores,2338
+Stores,23,Handicapped and Medical Equipment,2339
+Stores,23,Duty Free Shops,2340
+Stores,23,Teleshopping,2341
+Stores,23,Combined Stores,2398
+Stores,23,Other Stores,2399
+Non Promotional Advertising,24,Job Vacations,2401
+Non Promotional Advertising,24,Auctions,2402
+Non Promotional Advertising,24,BIDs,2403
+Non Promotional Advertising,24,IPO,2404
+Non Promotional Advertising,24,Greeting,2405
+Non Promotional Advertising,24,Thanks,2406
+Non Promotional Advertising,24,Warning,2407
+Non Promotional Advertising,24,Bankruptcy Announcement,2408
+Non Promotional Advertising,24,Notices,2409
+Non Promotional Advertising,24,Solace,2410
+Non Promotional Advertising,24,Elections Campaigns,2411
+Non Promotional Advertising,24,Competitions and Lottery,2412
+Non Promotional Advertising,24,Tourism Encourage,2413
+Non Promotional Advertising,24,Stop Smoking and Drugs,2414
+Non Promotional Advertising,24,Anti-Terrorism Ads,2415
+Non Promotional Advertising,24,Charity Campaigns,2416
+Non Promotional Advertising,24,Orphans House,2417
+Non Promotional Advertising,24,Religious Campaigns,2418
+Non Promotional Advertising,24,Awareness Campaigns,2419
+Non Promotional Advertising,24,Combined Non Promotional Advertisings,2498
+Non Promotional Advertising,24,Other Non Promotional Advertisings,2499
